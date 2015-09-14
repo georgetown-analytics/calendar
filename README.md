@@ -1,8 +1,10 @@
 # Georgetown Calendar Tutorial
 
+[![Calendar*](docs/img/calendar.jpg)](https://flic.kr/p/9bUbH3)
+
 **Building a simple calendar application in Python**
 
-[![Calendar*](docs/img/calendar.jpg)](https://flic.kr/p/9bUbH3)
+[![Documentation Status](https://readthedocs.org/projects/georgetown-calendar-tutorial/badge/?version=latest)](https://readthedocs.org/projects/georgetown-calendar-tutorial/?badge=latest)
 
 ## About
 
