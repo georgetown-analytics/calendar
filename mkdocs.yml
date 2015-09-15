@@ -1,2 +1,9 @@
 site_name: Georgetown Calendar Tutorial
+pages:
+    - Home: index.md
+    - Tutorial:
+        - Introduction: 'tutorial/intro.md'
+    - About:
+        - License: 'about/license.md'
+        - Notes: 'about/notes.md'
 theme: readthedocs
